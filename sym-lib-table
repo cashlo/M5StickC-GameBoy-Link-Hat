@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "GameBoy")(type "KiCad")(uri "${KIPRJMOD}/GameBoy.kicad_sym")(options "")(descr ""))
+  (lib (name "gb-link-socket")(type "KiCad")(uri "C:/Users/cashr/Downloads/gb-link-cable-master/gb-link-cable-master/gb-link-socket.kicad_sym")(options "")(descr ""))
+)
